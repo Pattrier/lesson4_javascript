@@ -4,17 +4,16 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(October 19, 2018)
 
 ### Student Name:  
-(First and Last Name)
+(Patrick Trierweiler)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(IThis assignment compares several different factors involved in budgeting and then calculates the percentage of the grand total each factor. )
 
 ### View Project:
-(Replace this statement with your GitHub Page URL that was created when you 
- published the project.)
+(git@github.com:Pattrier/lesson4_javascript.git.)
 
 ### Lessons Learned in the Assignment:
 1. (Briefly describe a lesson/concept learned in this lesson.)
